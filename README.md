@@ -1,7 +1,10 @@
 # 👋 Olá, eu sou a Fernanda!
 
-- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no Senac e estou no semestre 1/5!
-- 💼 Atualmente, trabalho como Assistente Fiscal de Legislação.
+- 🏙 Minha experiência profissional iniciou com o estágio no Tribunal de Justiça de São Paulo entre 2015 e 2016, ali aflorei minha paixão por leitura e aprendizado contínuo!
+- 💼 Atualmente, trabalho como Assistente Fiscal de Legislação na Mix Fiscal, empresa que desde 2017 vem me acolhendo e me ensinando diariamente sobre classificação fiscal, legislação Estadual, Federal e afins.
+- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no Senac (1/5)
+- 💬 Estudei inglês no CNA por 1 ano!
+- 👩🏼 Tenho 24 anos e um perfil profissional de Analista Planejadora além de ser proativa, organizada, compromissada com as tarefas recebidas, com facilidade de comunicação e aprendizado!
 
 # 🚀 Estou aprendendo
 **Linguagens**
