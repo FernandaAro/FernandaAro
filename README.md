@@ -7,8 +7,8 @@
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no Senac (2/5)
 - 💬 Estudei inglês no CNA por 1 ano!
 
-# 🚀 Estou aprendendo
-**Linguagens**
+# 🚀 Habilidades
+**Linguagens em aprendizado**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,4 +23,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #                   
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandaAro&theme=midnight-purple&hide)](https://github.com/anuraghazra/github-readme-stats)     ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
