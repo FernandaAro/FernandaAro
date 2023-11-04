@@ -23,5 +23,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #                   
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=FernandaAro&theme=neon&locale=pt_BR&type=png)](https://git.io/streak-stats) -->
-[![Fernanda wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandaAro&theme=aura)](https://github.com/anuraghazra/github-readme-stats)     ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
