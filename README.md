@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou a Fernanda!
 
+[![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd)
 - 👩🏼 Tenho 25 anos e um perfil profissional de Analista Planejadora além de ser proativa, organizada, compromissada com as tarefas recebidas, com facilidade de comunicação e aprendizado!
 - 🏙 Minha experiência profissional iniciou com o estágio no Tribunal de Justiça de São Paulo entre 2015 e 2016, ali aflorei minha paixão por leitura e aprendizado contínuo!
 - 💼 Atualmente, trabalho como Assistente Fiscal de Legislação na Mix Fiscal, empresa que desde 2017 vem me acolhendo e me ensinando diariamente sobre classificação fiscal, legislação Estadual, Federal e afins.
@@ -21,6 +22,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#
-<!--<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=FernandaAro&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />!-->                    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaAro&theme=neon&hide_border=false"  width="400px" />     ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#                   
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=FernandaAro&theme=neon&locale=pt_BR&type=png)](https://git.io/streak-stats) -->
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandaAro&theme=aura)](https://github.com/anuraghazra/github-readme-stats)     ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
