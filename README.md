@@ -1,11 +1,9 @@
-# 👋 Olá, eu sou a Fernanda!
+# 👋 Olá, mundo! Meu nome é Fernanda!
 
 [![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd)
-- 👩🏼 Tenho 25 anos e um perfil profissional de Analista Planejadora além de ser proativa, organizada, compromissada com as tarefas recebidas, com facilidade de comunicação e aprendizado!
-- 🏙 Minha experiência profissional iniciou com o estágio no Tribunal de Justiça de São Paulo entre 2015 e 2016, ali aflorei minha paixão por leitura e aprendizado contínuo!
-- 💼 Atualmente, trabalho como Assistente Fiscal de Legislação na Mix Fiscal, empresa que desde 2017 vem me acolhendo e me ensinando diariamente sobre classificação fiscal, legislação Estadual, Federal e afins.
-- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no Senac (2/5)
-- 💬 Estudei inglês no CNA por 1 ano!
+- 👩🏼 Tenho 25 anos e um perfil profissional Analista Planejadora além de ser proativa, organizada, com facilidade de comunicação e aprendizado!
+- 🎓Sou estudante de Análise e Desenvolvimento de Sistemas no Senac, e atualmente estou empenhada em desenvolver minhas habilidades como desenvolvedora.
+
 
 # 🚀 Habilidades
 **Linguagens em aprendizado**
