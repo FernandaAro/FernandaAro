@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd)
 - 👩🏼 Tenho 25 anos e um perfil profissional Analista Planejadora além de ser proativa, organizada, com facilidade de comunicação e aprendizado!
-- 🎓Sou estudante de Análise e Desenvolvimento de Sistemas no Senac, e atualmente estou empenhada em desenvolver minhas habilidades de programação.
+- 🎓Sou estudante de Banco de Dados no Senac, e atualmente estou empenhada em desenvolver minhas habilidades na área.
 
 
 # 🚀 Habilidades
