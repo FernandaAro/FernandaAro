@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! Meu nome é Fernanda!
 
-[![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd)
+<!-- [![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd) -->
 - 👩🏼 Tenho 25 anos e um perfil profissional Analista Planejadora além de ser proativa, organizada, com facilidade de comunicação e aprendizado!
 - 🎓Sou estudante de Banco de Dados no Senac, e atualmente estou empenhada em desenvolver minhas habilidades na área.
 
@@ -25,5 +25,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #                   
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandaAro&theme=midnight-purple&hide)](https://github.com/anuraghazra/github-readme-stats)     -->
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandaAro&theme=midnight-purple&hide)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=FernandaAro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
