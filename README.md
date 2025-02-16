@@ -1,7 +1,7 @@
 # 👋 Olá, mundo! Meu nome é Fernanda!
 
 <!-- [![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd) -->
-- 👩🏼 Tenho 25 anos
+- 👩🏼 Tenho 26 anos
 - 🎓 Sou estudante de Banco de Dados no Senac
 - 👨🏽‍💻 Estou empenhada em desenvolver minhas habilidades na área
 
