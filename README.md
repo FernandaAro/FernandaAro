@@ -1,10 +1,9 @@
 # 👋 Olá, mundo! Meu nome é Fernanda!
 
 <!-- [![wakatime](https://wakatime.com/badge/user/fa90e206-ed93-4bd7-82b9-b9e2d587a6dd.svg)](https://wakatime.com/@fa90e206-ed93-4bd7-82b9-b9e2d587a6dd) -->
-- 👩🏼 Tenho 26 anos
-- 🎓 Sou estudante de Banco de Dados no Senac
-- 👨🏽‍💻 Estou empenhada em desenvolver minhas habilidades na área
-
+- 👩🏼 Tenho 27 anos e sou apaixonada por tecnologia. 
+- 🎓 Formada em Banco de Dados pelo Senac e atuando como Analista de Suporte Pleno na Superlógica Tecnologias. 
+- 👨🏽‍💻 Busco evolução contínua na área de dados e tecnologia.
 
 # 🚀 Habilidades
 **Linguagens**
